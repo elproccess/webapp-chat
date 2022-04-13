@@ -1,2 +1,2 @@
 webapp-chat
-simple web application created with Node.js Express.js Socket.io
+simple web application created with HTML Node.js Express.js Socket.io
